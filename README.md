@@ -7,6 +7,7 @@ The Iron Citadel is a blacksmith shop located in the heart of Pirate Republic. I
 The shopkeeper is a dwarven woman named **Grunhilda Stonefist**. She has a gruff voice and a no-nonsense attitude, but she is highly knowledgeable about her craft and takes great pride in her work. She employs two human apprentices who assist her with forging and repairing weapons.
 
 ### Standard Weapons and Armor 
+
 | Item Name | Cost | Type | Damage/AC | Properties |
 | --- | --- | --- | --- | --- |
 | [Chain Mail](https://www.dndbeyond.com/equipment/chain-mail) | 75gp | Armor | AC 16 | - |
@@ -20,6 +21,7 @@ The shopkeeper is a dwarven woman named **Grunhilda Stonefist**. She has a gruff
 |[Rapier](https://www.dndbeyond.com/equipment/rapier)|25gp|Weapon|1d8 piercing|Finesse|
 
 ### Magic Weapons and Armor 
+
 | Item Name | Cost | Type | Damage/AC | Properties |
 | --- | --- | --- | --- | --- |
 |[Cloak of Protection](https://www.dndbeyond.com/magic-items/cloak-of-protection)|1000gp| Wondrous Item|-|This cloak grants the wearer a +1 bonus to AC and saving throws. The item requires attunement.|
