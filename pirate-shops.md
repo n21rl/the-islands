@@ -57,7 +57,7 @@ On Your Mettle is a one-stop shop for all your weapon, armor, and shield needs. 
 | [Dagger](https://www.dndbeyond.com/equipment/dagger)                   | 2 gp    | Weapon | 1d4 piercing  | Finesse, Light, Thrown (range 20/60)      |
 | [Shortsword](https://www.dndbeyond.com/equipment/shortsword)           | 10 gp   | Weapon | 1d6 piercing  | Finesse, Light                            |
 | [Scimitar](https://www.dndbeyond.com/equipment/scimitar)               | 25 gp   | Weapon | 1d6 slashing  | Finesse, Light                            |
-| [Shortbow](https://www.dndbeyond.com/equipment/shortbow)               | 25 gp   | Weapon | 1d6 piercing  | Ammunition, Two-Handed                    |
+| [Shortbow](https://www.dndbeyond.com/equipment/shortbow)               | 25 gp   | Weapon | 1d6 piercing  | Ammunition (range 80/320), Two-Handed     | 
 | [Greataxe](https://www.dndbeyond.com/equipment/greataxe)               | 30 gp   | Weapon | 1d12 slashing | Heavy, Two-Handed                         |
 | [Hand Crossbow](https://www.dndbeyond.com/equipment/hand-crossbow)     | 75 gp   | Weapon | 1d6 piercing  | Ammunition (range 30/120), Light, Loading |
 
@@ -67,14 +67,14 @@ On Your Mettle is a one-stop shop for all your weapon, armor, and shield needs. 
 | --------------------------------------------------------------------------------------------- | ------- | ------------- | ---------------------------------- | ------------------------------------------------------------------------------------------- |
 | [Leather of Acid Resistance](https://www.dndbeyond.com/magic-items/armor-of-resistance)       | 1500 gp | Armor         | AC 11                              | Leather armor that grants resistance to acid damage                                         |
 | [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/glamoured-studded-leather)  | 3000 gp | Armor         | AC 13                              | Studded leather that can change its appearance as a bonus action                            |
-| [Mithral Plate Mail](https://www.dndbeyond.com/magic-items/mithral-plate)                     | 7000 gp | Armor         | AC 18                              | Liht plate doesn't give disadvantage on stealth checks                                      |
+| [Mithral Plate Mail](https://www.dndbeyond.com/magic-items/mithral-plate)                     | 7000 gp | Armor         | AC 18                              | Light plate that doesn't give disadvantage on stealth checks                                      |
 |                                                                                               |         |               |                                    |                                                                                             |
 | Shield of Ranged Resistance                                                                   | 400 gp  | Shield        | AC + 2                             | Shield that grants resistance to damage from ranged weapon attacks                          |
 |                                                                                               |         |               |                                    |                                                                                             |
 | [Javelin of Warning](https://www.dndbeyond.com/magic-items/5471-javelin-of-warning)           | 2500 gp | Weapon        | 1d6 piercing                       | Javelin that grants advantage on initiative rolls and prevents surpise, requires attunement |
 | [Mace of Terror](https://www.dndbeyond.com/magic-items/mace-of-terror)                        | 3000 gp | Weapon        | 1d6 bludgeoning                    | Mace that can cast *fear* as an action, requires attunement                                 |
 | [Giant Slayer Battlealexe](https://www.dndbeyond.com/magic-items/4644-giant-slayer-battleaxe) | 3500 gp | Weapon        | 1d8 + 1 slashing                   | +1 battleaxe that hits giant for an extra 2d6 damage and can make them fall prone           |
-| [Flame Tongue Scimitar](https://www.dndbeyond.com/magic-items/4897-flame-tongue-scimitar)     | 6000 gp | Weapon        | 1d6 slashing, 2d6 fire when ablaze | Sword that ignites in flames when a command word is spoken                                  |
+| [Flame Tongue Scimitar](https://www.dndbeyond.com/magic-items/4897-flame-tongue-scimitar)     | 6000 gp | Weapon        | 1d6 slashing<br>2d6 fire when ablaze | Sword that ignites in flames when a command word is spoken                                  |
 |                                                                                               |         |               |                                    |                                                                                             |
 | [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/boots-of-elvenkind)                | 250 gp  | Wondrous Item | -                                  | Boots that grant advantage on Stealth checks and do not leave tracks                        |
 
@@ -83,6 +83,7 @@ On Your Mettle is a one-stop shop for all your weapon, armor, and shield needs. 
 This shop is based in a dark stone building with a sign depicting a pistol and a lit fuse. The shop sells various firearms, explosives, and ammunition. The shopkeeper is **Guz**, a grizzled old pirate with a missing eye and partial deafness. He enjoys experimenting with gunpowder to create new explosive devices. Rumor has it that's how he lost his eye and damaged his hearing, but he swears it was in battle. Talkative and knowledgeable, he can offer advice or warnings to his customers.
 
 ### Wares
+
 | Item Name                                                                             | Cost   | Damage        | Description                                                                                                          |
 | ------------------------------------------------------------------------------------- | ------ | ------------- | -------------------------------------------------------------------------------------------------------------------- |
 | [Gunpowder, Powder Horn](http://dnd5e.wikidot.com/explosives)                         | 35 gp  | 3d6 fire      | Explodes in 10 ft radius when ignited.                                                                               |
@@ -151,17 +152,21 @@ Everything is neatly organised and labelled by the shopkeeper, an older elf name
 | Ink (lead-based)                         | 10 gp   | [Illusory Script](https://www.dndbeyond.com/spells/illusory-script)                                                                                                     |
 | Black Pearl (can be powdered)            | 500 gp  | [Identify](https://www.dndbeyond.com/spells/identify), [Circle of Death](https://www.dndbeyond.com/spells/circle-of-death)                                              |
 | Star Ruby (can powdered)                 | 1000 gp | [Continual Flame](https://www.dndbeyond.com/spells/continual-flame)                                                                                                     |
-| Diamond (can be powdered)                | 1000 gp | [Chromatic Orb](https://www.dndbeyond.com/spells/chromatic-orb), [Raise Dead](https://www.dndbeyond.com/spells/raise-dead                                               |
+| Diamond (can be powdered)                | 1000 gp | [Chromatic Orb](https://www.dndbeyond.com/spells/chromatic-orb), [Raise Dead](https://www.dndbeyond.com/spells/raise-dead)                                              | 
 
 
 ##### Casting implements
-
-| Item Name                                                                             | Cost     | Type     | Charges | DC  | Description |
-| ------------------------------------------------------------------------------------- | -------- | -------- | ------- | --- | ----------- |
-|                                                                                       |          | Rod      |         |     |             |
-|                                                                                       |          |          |         |     |             |
-| Scroll of [Earth Tremor](https://www.dndbeyond.com/spells/earth-tremor)               |          | [Scroll] |         |     |             |
-|                                                                                       |          |          |         |     |             |
-| [Staff of the Python](https://www.dndbeyond.com/magic-items/4768-staff-of-the-python) |          | Staff    |         |     |             |
-|                                                                                       |          |          |         |     |             |
-| [Wand of Fireballs](https://www.dndbeyond.com/magic-items/4791-wand-of-fireballs)     | 7,500 gp | Wand     | 7       | 15  |   
+| Item Name                                                                         | Cost    | Type   | Charges | DC  | Description                                                                                                                   |
+| --------------------------------------------------------------------------------- | ------- | ------ | ------- | --- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [Tentacle Rod](https://www.dndbeyond.com/magic-items/5408-tentacle-rod)           | 5000 gp | Rod    | -       | 15  |Rod ending with 3 tentacles with +9 to hit, 1d6 bludgeoning damage                                                             |                                                           |
+|                                                                                   |         |        |         |     |                                                                                                                               |
+| [Scroll of Earth Tremor](https://www.dndbeyond.com/spells/earth tremor)           | 25 gp   | Scroll | -       | 13  | Casts the spell, destroyed upon use                                                                                           |
+| [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)                   | 50 gp   | Scroll | -       | -   | Casts the spell, destroyed upon use                                                                                           |
+| [Scroll of Plant Growth](https://www.dndbeyond.com/spells/plant-growth)           | 200 gp  | Scroll | -       | -   | Casts the spell, destroyed upon use                                                                                           |
+| [Scroll of Moonbeam](https://www.dndbeyond.com/spells/moonbeam)                   | 400 gp  | Scroll |         | 13  | Casts the spell, destroyed upon use                                                                                           |
+|                                                                                   |         |        |         |     |                                                                                                                               |
+| [Staff of Flowers](https://www.dndbeyond.com/magic-items/staff-of-flowers)        | 100 gp  | Staff  | 10      | -   | Causes flowers to sprout                                                                                                      |
+| [Skyblinder Staff](https://www.dndbeyond.com/magic-items/316774-skyblinder-staff) | 500 gp  | Staff  | -       | -   | Gives disadvantage to an attacking flying creature and can blind it. Requires attunement.                                     |
+|                                                                                   |         |        |         |     |                                                                                                                               |
+| [Wand of Secrets](https://www.dndbeyond.com/magic-items/wand-of-secrets)          | 500 gp  | Wand   | 3       | -   | Reveals secret doors and traps within 30 feet                                                                                 |
+| [Wand of Fireballs](https://www.dndbeyond.com/magic-items/wand-of-fireballs)      | 6500 gp | Wand   | 7       | 15  | For 1 charge, casts the 3rd-level version of the spell, every additional charge increase the spell level. Requires attunement |
