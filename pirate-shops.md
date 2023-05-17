@@ -155,10 +155,11 @@ Everything is neatly organised and labelled by the shopkeeper, an older elf name
 | Diamond (can be powdered)                | 1000 gp | [Chromatic Orb](https://www.dndbeyond.com/spells/chromatic-orb), [Raise Dead](https://www.dndbeyond.com/spells/raise-dead)                                              | 
 
 
-##### Casting implements
+#### Casting implements
+
 | Item Name                                                                         | Cost    | Type   | Charges | DC  | Description                                                                                                                   |
 | --------------------------------------------------------------------------------- | ------- | ------ | ------- | --- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [Tentacle Rod](https://www.dndbeyond.com/magic-items/5408-tentacle-rod)           | 5000 gp | Rod    | -       | 15  |Rod ending with 3 tentacles with +9 to hit, 1d6 bludgeoning damage |
+| [Tentacle Rod](https://www.dndbeyond.com/magic-items/5408-tentacle-rod)           | 5000 gp | Rod    | -       | 15  |Rod ending with 3 tentacles with +9 to hit, 1d6 bludgeoning damage 
 |                                                                                   |         |        |         |     |                                                                                                                               |
 | [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)                   | 50 gp   | Scroll | -       | -   | Casts the spell, destroyed upon use                                                                                           |
 | [Scroll of Earth Tremor](https://www.dndbeyond.com/spells/earth-tremor)           | 25 gp   | Scroll | -       | 13  | Casts the spell, destroyed upon use                                                                                           
