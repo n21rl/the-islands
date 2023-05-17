@@ -149,7 +149,8 @@ Everything is neatly organised and labelled by the shopkeeper, an older elf name
 | Mica chip                                | 5 gp    | [Shatter](https://www.dndbeyond.com/spells/shatter)                                                                                                                     |
 | Silver wire                              | 5 gp    | [Alarm](https://www.dndbeyond.com/spells/alarm)                                                                                                                         |
 | Incense                                  | 10 gp   | [Find familiar](https://www.dndbeyond.com/spells/find-familiar)                                                                                                         |
-| Ink (lead-based)                         | 10 gp   | [Illusory Script](https://www.dndbeyond.com/spells/illusory-script)                                                                                                     |
+| Ink (lead-based)                         | 10 gp| [Illusory Script](https://www.dndbeyond.com/spells/illusory-script)                                                                                                     |
+| Red Stone with Gnomish engravings | 400 gp | - |
 | Black Pearl (can be powdered)            | 500 gp  | [Identify](https://www.dndbeyond.com/spells/identify), [Circle of Death](https://www.dndbeyond.com/spells/circle-of-death)                                              |
 | Star Ruby (can powdered)                 | 1000 gp | [Continual Flame](https://www.dndbeyond.com/spells/continual-flame)                                                                                                     |
 | Diamond (can be powdered)                | 1000 gp | [Chromatic Orb](https://www.dndbeyond.com/spells/chromatic-orb), [Raise Dead](https://www.dndbeyond.com/spells/raise-dead)                                              | 
